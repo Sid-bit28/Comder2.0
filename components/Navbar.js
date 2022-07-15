@@ -12,9 +12,6 @@ export default function Navbar() {
           <li><Link href="/guides"><a>Problems</a></Link></li>
         </ul>
       </nav>
-      <div className="banner">
-        <Image src="/banner.jpg" width={966} height={276} />
-      </div>
     </div>
   )
 }
